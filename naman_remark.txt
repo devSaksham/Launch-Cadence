@@ -1,0 +1,4 @@
+Profile created at 2024-03-30 13 hrs 39 min 09 sec
+Booking of slot DATE:2028-12-1 with payload COMCASA to SSO done at 2024-03-30 13:54:47.
+Booking canceled of slot DATE:2028-12-1 with payload COMCASA to SSO at 2024-03-30 13:55:06.
+User profile deleted at 2024-03-30 13 hrs 55 min 34 sec
