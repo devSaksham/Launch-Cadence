@@ -1,4 +1,4 @@
-# Rocket Launch Management and Booking System
+# Launch Cadence
 
 A console-based Python application for managing rocket launches and customer bookings, with separate **admin** and **user** roles, built on a flat-file (`.txt`) storage backend.
 
@@ -36,8 +36,8 @@ Data is persisted as pipe/colon-delimited records in plain `.txt` files — no e
 ## Running
 
 ```bash
-git clone https://github.com/devSaksham/Rocket-Launch-Management-and-Booking-System.git
-cd Rocket-Launch-Management-and-Booking-System
+git clone https://github.com/devSaksham/Launch-Cadence.git
+cd Launch-Cadence
 python main.py
 ```
 
